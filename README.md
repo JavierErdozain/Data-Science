@@ -1,2 +1,2 @@
 # Data-Science
-Repositorio donde voy a ir subiendo ejecricios sobre data science.
+Pequeños proyectos de análisis de datos.
